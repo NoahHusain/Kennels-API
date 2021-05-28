@@ -1,0 +1,80 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Doodles",
+            "breed": "Poodle",
+            "customerId": 1,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Baylee",
+            "breed": "Shih Tzu",
+            "customerId": 2,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Snoop",
+            "breed": "Chihuahua",
+            "customerId": 3,
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Sky",
+            "breed": "Great Dane",
+            "customerId": 4,
+            "locationId": 1
+        },
+        {
+            "id": 5,
+            "name": "Porker",
+            "breed": "Beagle",
+            "customerId": 5,
+            "locationId": 2
+        }
+
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Hannah Hall",
+            "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Aubrey Husain",
+            "address": "1515 Eugene Way"
+        },
+        {
+            "id": 3,
+            "name": "Steve Walmsley",
+            "address": "2506 Aurora Rd"
+        },
+        {
+            "id": 4,
+            "name": "Monica Wright",
+            "address": "8353 Borealis Blvd"
+        },
+        {
+            "id": 5,
+            "name": "Robin Porter",
+            "address": "2352 Blossom St"
+        }
+    ],
+    "employees": [],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+    ]
+}
